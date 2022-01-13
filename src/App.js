@@ -53,6 +53,7 @@ class App extends Component {
                     this.setState({
                         mode:'read',
                         selected_content_id:Number(id)
+                        /*test*/
                     })
                 }.bind(this)}
                 data={this.state.contents}
