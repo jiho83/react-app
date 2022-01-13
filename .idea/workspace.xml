@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca6de44d-1a3b-4efe-bf89-1264f37332ad" name="Changes" comment="create">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/df" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Subject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TOC.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +58,18 @@
       <workItem from="1641393554757" duration="34270000" />
       <workItem from="1641862881020" duration="13000" />
       <workItem from="1641863354006" duration="138000" />
-      <workItem from="1641863930252" duration="2674000" />
+      <workItem from="1641863930252" duration="6865000" />
+      <workItem from="1641971359253" duration="1230000" />
+      <workItem from="1642055159539" duration="133000" />
     </task>
+    <task id="LOCAL-00001" summary="create">
+      <created>1641867265385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641867265385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
