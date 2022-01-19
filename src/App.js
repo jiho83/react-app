@@ -16,7 +16,7 @@ class App extends Component {
             contents:[
                 {id:1, title:'html', desc:'html test'},
                 {id:2, title:'css', desc:'css test'},
-                {id:3, title:'javascript', desc:'js test'}
+                {id:3, title:'javascript', desc:'js test!!!!!'}
             ]
         }
     }

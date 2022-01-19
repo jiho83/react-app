@@ -4,6 +4,7 @@
     <list default="true" id="ca6de44d-1a3b-4efe-bf89-1264f37332ad" name="Changes" comment="create">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <workItem from="1641971359253" duration="1230000" />
       <workItem from="1642055159539" duration="2279000" />
       <workItem from="1642550656213" duration="39000" />
-      <workItem from="1642565593580" duration="85000" />
+      <workItem from="1642565593580" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1641867265385</created>
